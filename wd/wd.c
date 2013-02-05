@@ -20,8 +20,8 @@
 
 #define APP_VERSION_MAJOR 0
 #define APP_VERSION_MINOR 1
-#define APP_VERSION_MICRO 2
-#define APP_NAME L"wd"
+#define APP_VERSION_MICRO 3
+#define APP_NAME L"wd (http://github.com/ealk/wd)"
 
 void usage(const WCHAR * plszAppName)
 {
